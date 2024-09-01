@@ -1,0 +1,11 @@
+<svg width="168" height="168" viewBox="0 0 168 168" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="84" cy="84" r="84" fill="url(#paint0_angular_900_7234)"/>
+<path d="M104 109.72H88L70.2 121.56C69.5993 121.96 68.9011 122.19 68.18 122.225C67.4589 122.26 66.7419 122.098 66.1054 121.757C65.469 121.416 64.937 120.909 64.5662 120.29C64.1954 119.67 63.9997 118.962 64 118.24V109.72C52 109.72 44 101.72 44 89.7197V65.7197C44 53.7197 52 45.7197 64 45.7197H104C116 45.7197 124 53.7197 124 65.7197V89.7197C124 101.72 116 109.72 104 109.72Z" stroke="white" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M84.0001 81.4404V80.6004C84.0001 77.8804 85.6801 76.4404 87.3601 75.2804C89.0001 74.1604 90.6401 72.7204 90.6401 70.0804C90.6401 66.4004 87.6801 63.4404 84.0001 63.4404C80.3201 63.4404 77.3601 66.4004 77.3601 70.0804M83.9801 91.0004H84.0201" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<radialGradient id="paint0_angular_900_7234" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(209 53.5) rotate(111.897) scale(335.181 259.839)">
+<stop stop-color="#DB5426"/>
+<stop offset="1" stop-color="#FF7A00" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

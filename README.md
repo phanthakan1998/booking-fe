@@ -11,5 +11,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 To install the project dependencies, run:
 
 ## How to start project
+
 npm install
+
 npm run start
